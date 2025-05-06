@@ -46,7 +46,7 @@ neon-react-app/ ├── public/ │   └── index.html ├── src/ │ 
 
 ## ❤️ Author
 
-Made with love and neon lights by [Your Name]  
+Made with love and neon lights by [Arundeepyt]  
 Learning React step by step!
 
 ---
